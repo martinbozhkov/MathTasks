@@ -1,0 +1,11 @@
+C:\C# Training\MathTasks\RectangleandTriangle\bin\Debug\RectangleandTriangle.exe
+C:\C# Training\MathTasks\RectangleandTriangle\bin\Debug\RectangleandTriangle.pdb
+C:\C# Training\MathTasks\RectangleandTriangle\bin\Debug\mscorlib.dll
+C:\C# Training\MathTasks\RectangleandTriangle\bin\Debug\normidna.nlp
+C:\C# Training\MathTasks\RectangleandTriangle\bin\Debug\normnfc.nlp
+C:\C# Training\MathTasks\RectangleandTriangle\bin\Debug\normnfd.nlp
+C:\C# Training\MathTasks\RectangleandTriangle\bin\Debug\normnfkc.nlp
+C:\C# Training\MathTasks\RectangleandTriangle\bin\Debug\normnfkd.nlp
+C:\C# Training\MathTasks\RectangleandTriangle\obj\x86\Debug\EnteredCircle.csprojResolveAssemblyReference.cache
+C:\C# Training\MathTasks\RectangleandTriangle\obj\x86\Debug\RectangleandTriangle.exe
+C:\C# Training\MathTasks\RectangleandTriangle\obj\x86\Debug\RectangleandTriangle.pdb
