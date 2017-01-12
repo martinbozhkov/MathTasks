@@ -1,0 +1,11 @@
+C:\CSTraining\MathTasks\QuadraticЕquation\bin\Debug\QuadraticЕquation.exe
+C:\CSTraining\MathTasks\QuadraticЕquation\bin\Debug\QuadraticЕquation.pdb
+C:\CSTraining\MathTasks\QuadraticЕquation\bin\Debug\mscorlib.dll
+C:\CSTraining\MathTasks\QuadraticЕquation\bin\Debug\normidna.nlp
+C:\CSTraining\MathTasks\QuadraticЕquation\bin\Debug\normnfc.nlp
+C:\CSTraining\MathTasks\QuadraticЕquation\bin\Debug\normnfd.nlp
+C:\CSTraining\MathTasks\QuadraticЕquation\bin\Debug\normnfkc.nlp
+C:\CSTraining\MathTasks\QuadraticЕquation\bin\Debug\normnfkd.nlp
+C:\CSTraining\MathTasks\QuadraticЕquation\obj\x86\Debug\QuadraticЕquation.exe
+C:\CSTraining\MathTasks\QuadraticЕquation\obj\x86\Debug\QuadraticЕquation.pdb
+C:\CSTraining\MathTasks\QuadraticЕquation\obj\x86\Debug\QuadraticЕquation.csprojResolveAssemblyReference.cache

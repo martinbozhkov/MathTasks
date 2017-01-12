@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnteredCircle", "RectangleandTriangle\EnteredCircle.csproj", "{39D40C92-6A03-4E6F-AEAD-F3B3DDA4AA68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticЕquation", "QuadraticЕquation\QuadraticЕquation.csproj", "{4E0F8467-43AE-4E60-B7FB-CABA46F40345}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,5 +15,9 @@ Global
 		{39D40C92-6A03-4E6F-AEAD-F3B3DDA4AA68}.Debug|x86.Build.0 = Debug|x86
 		{39D40C92-6A03-4E6F-AEAD-F3B3DDA4AA68}.Release|x86.ActiveCfg = Release|x86
 		{39D40C92-6A03-4E6F-AEAD-F3B3DDA4AA68}.Release|x86.Build.0 = Release|x86
+		{4E0F8467-43AE-4E60-B7FB-CABA46F40345}.Debug|x86.ActiveCfg = Debug|x86
+		{4E0F8467-43AE-4E60-B7FB-CABA46F40345}.Debug|x86.Build.0 = Debug|x86
+		{4E0F8467-43AE-4E60-B7FB-CABA46F40345}.Release|x86.ActiveCfg = Release|x86
+		{4E0F8467-43AE-4E60-B7FB-CABA46F40345}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal

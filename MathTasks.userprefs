@@ -1,12 +1,15 @@
 ﻿<Properties StartupConfiguration="{39D40C92-6A03-4E6F-AEAD-F3B3DDA4AA68}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.QuadraticЕquation PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="RectangleandTriangle\Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="QuadraticЕquation\Program.cs">
     <Files>
-      <File FileName="RectangleandTriangle\Program.cs" Line="32" Column="8" />
+      <File FileName="RectangleandTriangle\Program.cs" Line="69" Column="3" />
+      <File FileName="RectangleandTriangle\Colors.cs" Line="27" Column="3" />
+      <File FileName="QuadraticЕquation\Program.cs" Line="57" Column="38" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.EnteredCircle PreferredExecutionTarget="MonoDevelop.Default" />

@@ -6,19 +6,21 @@ namespace EnteredCircle
 	{
 		public static void Main(string[] args)
 		{
+			Colors.ForCLI _c = new Colors.ForCLI();
+
 			try
 			{
 				string __userInput = "";
 
-				Console.WriteLine("Задача за окръжност, вписана в четириъгълник. За да затворите програмата напишете 'Изход'\n");
+				_c.Default();		Console.WriteLine("Калкулатор за окръжност, вписана в четириъгълник. За да затворите програмата напишете 'Изход'\n");
 
 				do
 				{
 
 					bool _result;
 
-					Console.Write("\n\nМоля въведете a, b, c и d на четириъгълника: ");
-					string _userInput = __userInput = Console.ReadLine().ToLower();
+					_c.Prompt(); 	Console.Write("\n\nМоля въведете a, b, c и d на четириъгълника: ");
+					_c.Command();	string _userInput = __userInput = Console.ReadLine().ToLower();
 
 
 					string[] param = _userInput.Split(' ');
@@ -27,7 +29,7 @@ namespace EnteredCircle
 					{
 						if (param.Length != 4 || _userInput == " " || _userInput == "   ")
 						{
-							Console.WriteLine("\nМоля въведете данните коректно. Страните трябва да бъдат цели положителни числа!");
+							_c.Result();	Console.WriteLine("\nМоля въведете данните коректно. Страните трябва да бъдат цели положителни числа!");
 
 						}
 						else {
@@ -42,14 +44,16 @@ namespace EnteredCircle
 							if (a + c == b + d && a * a + c * c == b * b + d * d && param.Length == 4 && _userInput != " " & _userInput != "   ")
 							{
 								_result = true;
-								Console.WriteLine("\nОкръжността може да бъде вписана в четириъгълника");
+
+								_c.Result();	Console.WriteLine("\nОкръжността може да бъде вписана в четириъгълника");
 
 							}
 							else {
 								if (a + c != b + d && a * a + c * c != b * b + d * d && param.Length == 4)
 								{
 									_result = false;
-									Console.WriteLine("\nОкръжността НЕ може да бъде вписана в четириъгълника");
+
+									_c.Result();	Console.WriteLine("\nОкръжността НЕ може да бъде вписана в четириъгълника");
 								}
 							}
 						}
